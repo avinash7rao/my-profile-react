@@ -1,0 +1,33 @@
+{ "personal" : { 
+    "name": "Avinash Rao",
+    "title": "Full-Stack Developer",
+    "about" : "Welcome to my page, My name is Avinash Rao and I'm a Full-stack Developer. I graduated from Thinkful's Immersive Software Engineering program in June, 2021. Prior to Thinkful I had no coding experience but I do enjoy coding and designing websites now. Please feel free to take a look at my site and please feel free to connect with me. Enjoy!"
+    },
+
+  "projects" : [
+        {
+            "projectName" : "Restaurant Reservation App",
+            "projectlink": "hiafd",
+            "aboutProject": "",
+            "projectSkills": "React, PostgreSQL, Express.js, Node.js, & Javascirpt."
+        },
+        {
+            "projectName" : "Movies",
+            "projectlink": "hiafd",
+            "aboutProject": "",
+            "projectSkills": "Express.js, Node.js, PostgreSQL, React, & Javascript."
+        },
+        {
+            "projectName" : "Pomodoro Timer",
+            "projectlink": "hiafd",
+            "aboutProject": "Getting stuff done is hard, especially if you are self-employed or need to do things for yourself that you usually put off, like paying bills. There always seems to be something else to do. Enter: the Pomodoro Technique. This popular time-management method can help you power through distractions, hyper-focus and get things done in short bursts, while taking frequent breaks to come up for air and relax. Best of all, it’s easy",
+            "projectSkills": "React & Javascirpt."
+        }, 
+        {
+            "projectName" : "Decoder Techniques",
+            "projectlink": "hiafd",
+            "aboutProject": "An application I developed that will help encode and decode messages using different cipher techniques. Currently, this project comprises the javascript code. Please feel free to click on the image to skim over the code on my Github.",
+            "projectSkills": "Javascirpt."
+        }
+    ]
+}
